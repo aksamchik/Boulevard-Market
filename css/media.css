@@ -1,0 +1,275 @@
+@media screen and (max-width:1160px) {
+    .header__nav {
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .footer__wrap {
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .cards__wrap {
+        max-width: 700px;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+
+    .nav__menu {
+        gap: 40px;
+    }
+
+    .headphones__wrap img {
+        object-fit: cover;
+        width: 30%;
+        height: 100%;
+    }
+
+    .headphones__wrap-ambushure-p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .headphones__wrap-sensor-p-design {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .headphones__wrap-sensor-p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .headphones__wrap-sensor{
+        object-fit: cover;
+        width: 70%;
+        height: 100%;
+    }
+
+    .site__wrap-h{
+        font-size: 75px;
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:930px){
+    .site{
+        height: 75vh;
+    }
+
+    .site__wrap-h{
+        font-size: 54px;
+        line-height: 33px;
+    }
+
+    .cards__wrap-pro{
+        padding: 14px 30px;
+    }
+}
+
+@media screen and (max-width:860px){
+    .headphones__wrap-ambushure-p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .headphones__wrap-sensor-p-design {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .headphones__wrap-sensor-p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .headphones__wrap-sensor{
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:690px){
+    .footer__wrap{
+        flex-direction: column;
+        gap: 30px;
+        padding: 60px 0;
+    }
+
+    .header__nav{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .block{
+        flex-direction: column;
+    }
+
+    .block img{
+        object-fit: cover;
+        width: 90%;
+        height: 100%;
+        align-items: center;
+    }
+
+    .site{
+        height: 50vh;
+    }
+
+    .headphones__wrap-ambushure-p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .headphones__wrap-sensor-p-design {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .headphones__wrap-sensor-p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .footer__wrap-menu-link a{
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .menu__link a {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .site__wrap-h{
+        font-size: 40px;
+        line-height: 26px;
+    }
+
+    .site__wrap-btn{
+        font-size: 11px;
+        line-height: 12px;
+    }
+}
+
+@media screen and (max-width:470px){
+    .site{
+        height: 38vh;
+    }
+    
+    .site__wrap-h{
+        font-size: 30px;
+        line-height: 20px;
+    }
+
+    .cards__wrap img{
+        object-fit: cover;
+        width: 70%;
+        height: 100%;
+    }
+
+    .cards__wrap-pro{
+        max-width: 255px;
+        width: 100%;
+        padding: 10px 50px;
+    }
+
+    .block{
+        gap: 10px;
+    }
+
+    .header__nav{
+        gap: 14px;
+    }
+
+    .footer__wrap-menu-link a{
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .menu__link a {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .footer__wrap-img img{
+        object-fit: cover;
+        width: 30%;
+        height: 100%;
+    }
+
+    .cards__wrap img{
+        object-fit: cover;
+        width: 60%;
+        height: 100%;
+    }
+
+    .cards__wrap-pro-btn{
+        padding: 8px 46px;
+    }
+
+    .nav__menu{
+        gap: 14px;
+    }
+
+    .nav__menu img{
+        width: 80px;
+    }
+
+    .site{
+        height: 30vh;
+    }
+
+
+    .site__wrap-h{
+        font-size: 20px;
+        line-height: 16px;
+    }
+
+    .site__wrap-btn{
+        font-size: 8px;
+        line-height: 14px;
+    }
+
+    .cards__wrap-pro-h{
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .cards__wrap-pro-p{
+        font-size: 10px;
+        line-height: 13px;
+    }
+
+    .cards__wrap-pro-btn{
+        font-size: 12px;
+        line-height: 16px;
+        padding: 8px 30px;
+        margin-top: 0;
+    }
+
+    .headphones__wrap-ambushure-p {
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    }
+
+    .headphones__wrap-sensor-p-design {
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    }
+
+    .headphones__wrap-sensor-p {
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    }
+
+    .footer__wrap-menu-link a{
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+}
